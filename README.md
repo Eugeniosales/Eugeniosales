@@ -1,4 +1,12 @@
-### Hi there 👋
+### My Stats ⚡
+
+<a href="https://github.com/Eugeniosales/github-readme-stats">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugeniosales&hide=jupyter%20notebook,html&layout=compact&theme=dracula" />
+</a>
+
+<a href="https://github.com/Eugeniosales/github-readme-statst">
+  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=Eugeniosales&show_icons=true&theme=dracula" />
+</a>
 
 <!--
 **Eugeniosales/Eugeniosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
