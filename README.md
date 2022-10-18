@@ -2,9 +2,6 @@
 
 Software Developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eugenio%20Sales-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugeniosales/)](https://www.linkedin.com/in/eugeniosales/) 
-[![Gmail Badge](https://img.shields.io/badge/-eugeniosales710@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eugeniosales710@gmail.com)](mailto:eugeniosales710@gmail.com)
-
 ### My Stats ⚡
 
 <a href="https://github.com/Eugeniosales/github-readme-stats">
