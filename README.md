@@ -1,6 +1,6 @@
 # Eugenio Sales
 
-Software Developer.
+AWS/Node.js Software Developer.
 
 ### My Stats ⚡
 
