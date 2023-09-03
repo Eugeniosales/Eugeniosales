@@ -5,7 +5,7 @@ AWS/Node.js Software Developer.
 ### My Stats ⚡
 
 <a href="https://github.com/Eugeniosales/github-readme-stats">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugeniosales&hide=jupyter%20notebook,assembly,css,html,c&layout=compact&theme=dracula" />
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugeniosales&hide=jupyter%20notebook,assembly,dart,css,html,c&layout=compact&theme=dracula" />
 </a>
 
 <a href="https://github.com/Eugeniosales/github-readme-statst">
