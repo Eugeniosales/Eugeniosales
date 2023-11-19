@@ -1,6 +1,15 @@
 # Eugenio Sales
 
-AWS/Node.js Software Developer.
+I am a Backend Developer with over 4 years of professional
+experience. 
+
+Throughout my journey, I have been mainly focused on AWS, Javascript and DevOps. 
+
+Furthermore, I am a big fan of Cloud Computing and that is the field I have been specializing in. 
+
+I have got AWS Solutions Architect Associate and Cloud Practitioner certs.
+
+Credly: [AWS Certs](https://www.credly.com/users/eugenio-siqueira/badges)
 
 ### My Stats ⚡
 
