@@ -8,7 +8,7 @@
 
 <h2> About Me </h2>
 
-- 🔭 I am a Backend Developer with 5 years of professional experience
+- 🔭 I am a Software Engineer with 5 years of professional experience
 - 🖥️ I have been mainly focused on AWS, Javascript and DevOps
 - ☁️ I am a big fan of Cloud Computing and that is the field I have been specializing in
 - 🚀 2X AWS Certified -> [Credly](https://www.credly.com/users/eugenio-siqueira)
