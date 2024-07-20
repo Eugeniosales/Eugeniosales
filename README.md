@@ -11,7 +11,7 @@
 - 🔭 I am a Backend Developer with 5 years of professional experience
 - 🖥️ I have been mainly focused on AWS, Javascript and DevOps
 - ☁️ I am a big fan of Cloud Computing and that is the field I have been specializing in
-- 🚀 2X AWS Certified -> [Credily](https://www.credly.com/users/eugenio-siqueira)
+- 🚀 2X AWS Certified -> [Credly](https://www.credly.com/users/eugenio-siqueira)
 - 💡 Active leetcode practitioner
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
