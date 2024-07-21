@@ -2,8 +2,12 @@
 <p align='center'>
 </p>
 
-[![Github](https://img.shields.io/github/followers/Eugeniosales?label=Follow&style=social)](https://github.com/Eugeniosales)
-
+<div align="center">
+  <a style="text-decoration: none;" href="https://github.com/Eugeniosales">
+      <img style="border-radius:10px" src="https://img.shields.io/github/followers/Eugeniosales?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=00308F" />
+  </a>
+  </a>
+</div>
 </div>
 
 <h2> About Me </h2>
